@@ -1,0 +1,26 @@
+.navbar ul{
+    background-color: #006d77;
+    margin: 15px;
+    padding: 0px;
+    text-align: center;
+
+}
+.navbar a{
+    color: #83c5be;
+    display: flex;
+    padding: 20px;
+    text-decoration: none;
+
+}
+.navbar li{
+    display: inline-block;
+    text-align: center;
+
+
+}
+.out{
+    word-spacing: 0px;
+}
+.navbar a:hover{
+    color:#edf6f9
+}
