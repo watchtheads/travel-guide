@@ -24,3 +24,13 @@
 .navbar a:hover{
     color:#edf6f9
 }
+.middle{
+    display: grid;
+  place-items: center;
+
+}
+.bottom{
+    display: grid;
+  place-items: center;
+
+}
